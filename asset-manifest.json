@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quiz-app/static/css/main.e6c13ad2.css",
-    "main.js": "/quiz-app/static/js/main.0ef212d8.js",
-    "static/js/488.127e7bff.chunk.js": "/quiz-app/static/js/488.127e7bff.chunk.js",
-    "index.html": "/quiz-app/index.html",
-    "main.e6c13ad2.css.map": "/quiz-app/static/css/main.e6c13ad2.css.map",
-    "main.0ef212d8.js.map": "/quiz-app/static/js/main.0ef212d8.js.map",
-    "488.127e7bff.chunk.js.map": "/quiz-app/static/js/488.127e7bff.chunk.js.map"
+    "main.css": "./static/css/main.e6c13ad2.css",
+    "main.js": "./static/js/main.63222aea.js",
+    "static/js/488.127e7bff.chunk.js": "./static/js/488.127e7bff.chunk.js",
+    "index.html": "./index.html",
+    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
+    "main.63222aea.js.map": "./static/js/main.63222aea.js.map",
+    "488.127e7bff.chunk.js.map": "./static/js/488.127e7bff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0ef212d8.js"
+    "static/js/main.63222aea.js"
   ]
 }
