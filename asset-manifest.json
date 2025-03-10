@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neako0230/quiz-app/static/css/main.e6c13ad2.css",
+    "main.js": "/neako0230/quiz-app/static/js/main.128aba75.js",
+    "static/js/488.127e7bff.chunk.js": "/neako0230/quiz-app/static/js/488.127e7bff.chunk.js",
+    "index.html": "/neako0230/quiz-app/index.html",
+    "main.e6c13ad2.css.map": "/neako0230/quiz-app/static/css/main.e6c13ad2.css.map",
+    "main.128aba75.js.map": "/neako0230/quiz-app/static/js/main.128aba75.js.map",
+    "488.127e7bff.chunk.js.map": "/neako0230/quiz-app/static/js/488.127e7bff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.128aba75.js"
+  ]
+}
