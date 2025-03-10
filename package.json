@@ -2,7 +2,7 @@
   "name": "quiz-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cjc.github.io/quiz-app",
+  "homepage": "https://neako0230.github.io/quiz-app",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
